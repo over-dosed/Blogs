@@ -8,7 +8,8 @@
   "files.associations": {
     "random": "cpp",
     "new": "cpp",
-    "*.tcc": "cpp"
+    "*.tcc": "cpp",
+    "vector": "cpp"
   },
   "C_Cpp_Runner.cStandard": "",
   "C_Cpp_Runner.cppStandard": "",
