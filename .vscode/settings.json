@@ -4,7 +4,7 @@
       "allow_different_nesting": true
     }
   },
-  "C_Cpp.errorSquiggles": "Disabled",
+  "C_Cpp.errorSquiggles": "Enabled",
   "files.associations": {
     "random": "cpp",
     "new": "cpp",
