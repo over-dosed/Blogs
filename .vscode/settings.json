@@ -1,4 +1,8 @@
 {
+  //声明anaconda的安装地址
+  "python.pythonPath" :"‪E:\\Anaconda\\python.exe",
+  //python语法检查
+  "python.linting.pylintPath":"pylint",
   "markdownlint.config": {
     "no-duplicate-heading": {
       "allow_different_nesting": true
@@ -9,7 +13,15 @@
     "random": "cpp",
     "new": "cpp",
     "*.tcc": "cpp",
-    "vector": "cpp"
+    "vector": "cpp",
+    "hash_set": "cpp",
+    "set": "cpp",
+    "deque": "cpp",
+    "string": "cpp",
+    "unordered_map": "cpp",
+    "array": "cpp",
+    "string_view": "cpp",
+    "initializer_list": "cpp"
   },
   "C_Cpp_Runner.cStandard": "",
   "C_Cpp_Runner.cppStandard": "",
